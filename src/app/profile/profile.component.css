@@ -1,0 +1,21 @@
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.profile-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #1ecefd;
+  width: 50%;
+}
+
+.img {
+  width: 50%;
+  height: 50%;
+}
+
+.prof-name {
+  font-size: 24px;
+}
